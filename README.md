@@ -6,6 +6,9 @@ Vision
 
 [OnShape link](https://cad.onshape.com/documents/846938e8cb7e0c36ed819e5e/w/bfa771fccd5e4c9b6e083dc4/e/98591124d3838be4581445d6?renderMode=0&uiState=69ea939de1b898e2faa7a60f) to the model 
 
+Imported models for the assembly 
+[WH148 potentiometer](https://grabcad.com/library/wh148-potentiometer-1k-1)
+
 Materials (probably) 
 
 [WS2812B Led strip 60 / 1 metre IP30 ~$6](https://www.aliexpress.com/item/1005006766819624.html?algo_pvid=750b7ca0-3353-48ef-b88a-3d3d81bf842f&algo_exp_id=750b7ca0-3353-48ef-b88a-3d3d81bf842f-1&pdp_ext_f=%7B%22order%22%3A%2223226%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%214.41%214.31%21%21%2121.44%2120.95%21%402103212317765423242748096e49b1%2112000038232636612%21sea%21CA%212965713149%21X%211%210%21n_tag%3A-29919%3Bd%3Afa6b15bf%3Bm03_new_user%3A-29895&curPageLogUid=F6mkf3wErufD&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006766819624%7C_p_origin_prod%3A)
