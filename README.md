@@ -1,6 +1,7 @@
 # Arlecchino Furina 
-Vision 
-<img width="1312" height="594" alt="image" src="https://github.com/user-attachments/assets/48068efe-759b-45fd-854c-b50dd8f0aa58" />
+Schematic
+<img width="825" height="454" alt="image" src="https://github.com/user-attachments/assets/69d24d1b-6146-40a5-aed7-9eb8317e529c" />
+Everything is connected via headers since all the parts will be in different locations in the box. 
 
 3d model is modified from [Derek's snap fit box model](https://makerworld.com/en/models/1000458-snap-fit-box-customize-or-small-ready-print?from=search#profileId-977928) 
 
