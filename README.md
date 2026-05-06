@@ -1,7 +1,7 @@
 # Description
 An acrylic glass RGB lamp with Arlecchino and Furina (Genshin Impact characters) back to back on separate panels with separate LED strips. 2 modes, rainbow RGB wave on the lamp from left to right spanning both pannels and individually setting the panel colors with a shimmer effect. Its sole purpose and reason for existing is to look pretty and sit on my desk when I move off to university. 
 
-Arlecchino    &emsp; &emsp; &emsp; &emsp; &emsp;      Furina 
+&emsp; &emsp; &emsp; &emsp; &emsp; Arlecchino  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     Furina 
 <img width="843" height="625" alt="image" src="https://github.com/user-attachments/assets/9d2d8699-c5ee-4cdb-b2c0-1b3233fd0160" />
 The lineart is somewhat suspicious but the lines will get somewhat blended and skewed when I actually carve it onto the acrylic glass anyways. 
 
@@ -25,11 +25,11 @@ A simple PCB that just connects the LED strips, slide switch, and potentiometer.
 
 Schematic
 
-<img width="400" height="454" alt="image" src="https://github.com/user-attachments/assets/69d24d1b-6146-40a5-aed7-9eb8317e529c" />
+<img width="500" height="354" alt="image" src="https://github.com/user-attachments/assets/69d24d1b-6146-40a5-aed7-9eb8317e529c" />
 
 PCB 
 
-<img width="400" height="580" alt="image" src="https://github.com/user-attachments/assets/e48dbbbe-0e38-4f1c-a646-a2e188ca18bb" />
+<img width="500" height="480" alt="image" src="https://github.com/user-attachments/assets/e48dbbbe-0e38-4f1c-a646-a2e188ca18bb" />
 
 
 # Library
