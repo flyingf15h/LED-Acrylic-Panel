@@ -12,7 +12,17 @@ In rainbow RGB wave (slide switch position left), the potentiometer controls the
 # Zine 
 <picture> 
   
-# Assembled 3d Model 
+## 3d Model 
+Box
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/f83d0fc4-8a1c-4b6c-9920-8f4025b53889" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/705e798c-a370-4296-8775-5b71a92669e2" />
+
+
+Lid
+<img width="1067" height="457" alt="image" src="https://github.com/user-attachments/assets/b2051d59-d3c7-435a-8b12-2d4d312a299b" />
+
+
+Fully Assembled 
 <img width="500" height="505" alt="image" src="https://github.com/user-attachments/assets/2d7ee429-e8ab-4637-a9d0-42eb7498f817" />
 <img width="400" height="505" alt="image" src="https://github.com/user-attachments/assets/5302722a-f5a0-47ee-86a4-cfa01da6137b" />
 
