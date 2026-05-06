@@ -22,9 +22,8 @@ Notes:
 
 3d model is modified from [Derek's snap fit box model](https://makerworld.com/en/models/1000458-snap-fit-box-customize-or-small-ready-print?from=search#profileId-977928) 
 
-Imported models for the assembly 
+Imported [WH148 potentiometer](https://grabcad.com/library/wh148-potentiometer-1k-1) for the assembly 
 
-[WH148 potentiometer](https://grabcad.com/library/wh148-potentiometer-1k-1)
 
 # PCB 
 A simple PCB that just connects the LED strips, slide switch, and potentiometer. Everything is connected via headers since all the parts will be in different locations in the box. 
