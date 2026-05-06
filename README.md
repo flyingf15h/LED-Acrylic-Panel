@@ -8,9 +8,11 @@ An acrylic glass RGB lamp with Arlecchino and Furina (Genshin Impact characters)
 The lineart is somewhat suspicious but the lines will get somewhat blended and skewed when I actually carve it onto the acrylic glass anyways. 
 
 In rainbow RGB wave (slide switch position left), the potentiometer controls the speed of the wave. 
+
 <img width="984" height="592" alt="image" src="https://github.com/user-attachments/assets/4491523b-68e3-4907-ba6e-c0e7c040b5f6" />
 
 Slide switch in its middle position sets the potentiometer to control the color of the left panel (Arlecchino), and the slide switch in its right position sets the potentiometer to control the color of the right panel (Furina). 
+
 <img width="894" height="560" alt="image" src="https://github.com/user-attachments/assets/e1a6f88c-c31b-4445-9cf3-0a8dfb6bc255" />
 
 
@@ -19,11 +21,13 @@ Slide switch in its middle position sets the potentiometer to control the color 
   
 ## 3d Model 
 Box
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/f83d0fc4-8a1c-4b6c-9920-8f4025b53889" />
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/705e798c-a370-4296-8775-5b71a92669e2" />
 
 
 Lid
+
 <img width="1067" height="457" alt="image" src="https://github.com/user-attachments/assets/b2051d59-d3c7-435a-8b12-2d4d312a299b" />
 
 
