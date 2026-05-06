@@ -30,11 +30,11 @@ A simple PCB that just connects the LED strips, slide switch, and potentiometer.
 
 Schematic
 
-<img width="500" height="354" alt="image" src="https://github.com/user-attachments/assets/69d24d1b-6146-40a5-aed7-9eb8317e529c" />
+<img width="500" height="324" alt="image" src="https://github.com/user-attachments/assets/69d24d1b-6146-40a5-aed7-9eb8317e529c" />
 
 PCB 
 
-<img width="500" height="480" alt="image" src="https://github.com/user-attachments/assets/e48dbbbe-0e38-4f1c-a646-a2e188ca18bb" />
+<img width="500" height="430" alt="image" src="https://github.com/user-attachments/assets/e48dbbbe-0e38-4f1c-a646-a2e188ca18bb" />
 
 
 # Library
