@@ -2,7 +2,7 @@
 An acrylic glass RGB lamp with Arlecchino and Furina (Genshin Impact characters) back to back on separate panels with separate LED strips. 2 modes, rainbow RGB wave on the lamp from left to right spanning both pannels and individually setting the panel colors with a shimmer effect. Its sole purpose and reason for existing is to look pretty and sit on my desk when I move off to university. 
 
 &emsp; &emsp; &emsp; &emsp; &emsp; Arlecchino  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     Furina 
-<img width="843" height="625" alt="image" src="https://github.com/user-attachments/assets/9d2d8699-c5ee-4cdb-b2c0-1b3233fd0160" />
+<img width="600" height="445" alt="image" src="https://github.com/user-attachments/assets/9d2d8699-c5ee-4cdb-b2c0-1b3233fd0160" />
 The lineart is somewhat suspicious but the lines will get somewhat blended and skewed when I actually carve it onto the acrylic glass anyways. 
 
 In rainbow RGB wave (slide switch position left), the potentiometer controls the speed of the wave. Slide switch in its middle position sets the potentiometer to control the color of the left panel (Arlecchino), and the slide switch in its right position sets the potentiometer to control the color of the right panel (Furina). When switching between middle and right, the previously edited panel remembers its color but switching into the rainbow wave resets the colors. 
