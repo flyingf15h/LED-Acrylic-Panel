@@ -1,8 +1,10 @@
 # Description
 An acrylic glass RGB lamp with Arlecchino and Furina (Genshin Impact characters) back to back on separate panels with separate LED strips. 2 modes, rainbow RGB wave on the lamp from left to right spanning both pannels and individually setting the panel colors with a shimmer effect. Its sole purpose and reason for existing is to look pretty and sit on my desk when I move off to university. 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; Arlecchino  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     Furina 
+&emsp; &emsp; &emsp; &emsp; &emsp; Arlecchino  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  Furina 
+
 <img width="600" height="445" alt="image" src="https://github.com/user-attachments/assets/9d2d8699-c5ee-4cdb-b2c0-1b3233fd0160" />
+
 The lineart is somewhat suspicious but the lines will get somewhat blended and skewed when I actually carve it onto the acrylic glass anyways. 
 
 In rainbow RGB wave (slide switch position left), the potentiometer controls the speed of the wave. Slide switch in its middle position sets the potentiometer to control the color of the left panel (Arlecchino), and the slide switch in its right position sets the potentiometer to control the color of the right panel (Furina). When switching between middle and right, the previously edited panel remembers its color but switching into the rainbow wave resets the colors. 
@@ -15,9 +17,13 @@ In rainbow RGB wave (slide switch position left), the potentiometer controls the
 <img width="400" height="505" alt="image" src="https://github.com/user-attachments/assets/5302722a-f5a0-47ee-86a4-cfa01da6137b" />
 
 [OnShape link](https://cad.onshape.com/documents/846938e8cb7e0c36ed819e5e/w/bfa771fccd5e4c9b6e083dc4/e/98591124d3838be4581445d6?renderMode=0&uiState=69ea939de1b898e2faa7a60f) 
+
 Notes: 
+
 3d model is modified from [Derek's snap fit box model](https://makerworld.com/en/models/1000458-snap-fit-box-customize-or-small-ready-print?from=search#profileId-977928) 
+
 Imported models for the assembly 
+
 [WH148 potentiometer](https://grabcad.com/library/wh148-potentiometer-1k-1)
 
 # PCB 
