@@ -1,5 +1,5 @@
 # Description (the 3 Ws)
-An acrylic glass RGB lamp with Arlecchino and Furina (Genshin Impact characters) back to back on separate panels with separate LED strips. 2 modes, rainbow RGB wave on the lamp from left to right spanning both pannels and individually setting the panel colors with a shimmer effect. Its sole purpose and reason for existing is to look pretty and sit on my desk when I move off to university. 
+Acrylic glass panels backlit with LED strips and Arlecchino and Furina (Genshin Impact characters) back to back on the panels. 2 modes, rainbow RGB wave on the lamp from left to right spanning both pannels and individually setting the panel colors with a shimmer effect. 
 
 &emsp; &emsp; &emsp; &emsp; &emsp; Arlecchino  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  Furina 
 
@@ -32,6 +32,7 @@ Lid
 
 
 Fully Assembled 
+
 <img width="500" height="505" alt="image" src="https://github.com/user-attachments/assets/2d7ee429-e8ab-4637-a9d0-42eb7498f817" />
 <img width="400" height="505" alt="image" src="https://github.com/user-attachments/assets/5302722a-f5a0-47ee-86a4-cfa01da6137b" />
 
