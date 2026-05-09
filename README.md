@@ -1,5 +1,5 @@
 # Description (the 3 Ws)
-Acrylic glass panels backlit with LED strips and Arlecchino and Furina (Genshin Impact characters) back to back on the panels. 2 modes, rainbow RGB wave on the lamp from left to right spanning both pannels and individually setting the panel colors with a shimmer effect. 
+Acrylic glass panels backlit with LED strips and Arlecchino and Furina (Genshin Impact characters) back to back on the panels. 2 modes, rainbow RGB wave on the lamp from left to right spanning both panels and individually setting the panel colors with a shimmer effect. 
 
 &emsp; &emsp; &emsp; &emsp; &emsp; Arlecchino  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  Furina 
 
