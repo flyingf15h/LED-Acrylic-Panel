@@ -1,1 +1,11 @@
-
+Item,Qty,Cost (CAD),Source,Specifications
+WS2812B Led Strip,1,$6.09 ,Aliexpress,"1 m 60 IP30, White PCB"
+Arduino Nano,1,$4.14 ,Aliexpress,TYPE-C USB Soldered
+Acrylic Glass Panel,1,$9.86 ,Aliexpress,"15cm x 20cm, 2 mm "
+WH148 potentiometer,5,$7.17 ,Aliexpress ,10K Ohm resistance
+Hookup Wires,1,$3.95 ,Aliexpress ,"22 AWG, 5 m"
+PCB,5,$6.13 ,JLBPCB,
+Header Pins 3 pin ,20,$2.70 ,Aliexpress ,Male
+Header Pins 15 pin,10,$5.85 ,Aliexpress ,Female 
+DPDT Slide Switch,10,$3.68 ,Aliexpress ,
+Total Cost:,,$49.57 ,,
