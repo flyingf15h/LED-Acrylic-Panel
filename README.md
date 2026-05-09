@@ -15,9 +15,6 @@ Slide switch in its middle position sets the potentiometer to control the color 
 
 <img width="894" height="560" alt="image" src="https://github.com/user-attachments/assets/e1a6f88c-c31b-4445-9cf3-0a8dfb6bc255" />
 
-
-# Zine 
-<picture> 
   
 ## 3d Model 
 Box
@@ -56,6 +53,9 @@ PCB
 
 <img width="500" height="430" alt="image" src="https://github.com/user-attachments/assets/e48dbbbe-0e38-4f1c-a646-a2e188ca18bb" />
 
-
 # Library
 [FastLED](https://github.com/FastLED/FastLED) 
+
+# Zine 
+<img width="432" height="667" alt="image" src="https://github.com/user-attachments/assets/c27bddd0-50ae-4d60-a8ce-18786ffe07a3" />
+
