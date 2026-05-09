@@ -37,6 +37,8 @@ Fully Assembled
 
 Notes: 
 
+Since every component is going to be lightweight and static I'm planning on using glue and tape to secure things together (hopefully thats okay)
+
 3d model is modified from [Derek's snap fit box model](https://makerworld.com/en/models/1000458-snap-fit-box-customize-or-small-ready-print?from=search#profileId-977928) 
 
 Imported [WH148 potentiometer](https://grabcad.com/library/wh148-potentiometer-1k-1) for the assembly 
