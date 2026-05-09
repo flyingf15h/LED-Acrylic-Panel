@@ -1,11 +1,11 @@
-# Description (the 3 Ws)
+## Description  
 Acrylic glass panels backlit with LED strips and Arlecchino and Furina (Genshin Impact characters) back to back on the panels. 2 modes, rainbow RGB wave on the lamp from left to right spanning both panels and individually setting the panel colors with a shimmer effect. 
 
 &emsp; &emsp; &emsp; &emsp; &emsp; Arlecchino  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  Furina 
 
 <img width="600" height="445" alt="image" src="https://github.com/user-attachments/assets/9d2d8699-c5ee-4cdb-b2c0-1b3233fd0160" />
 
-The lineart is somewhat suspicious but the lines will get somewhat blended and skewed when I actually carve it onto the acrylic glass anyways. 
+The lineart will get somewhat skewed when carve it onto the acrylic glass. 
 
 In rainbow RGB wave (slide switch position left), the potentiometer controls the speed of the wave. 
 
@@ -15,7 +15,9 @@ Slide switch in its middle position sets the potentiometer to control the color 
 
 <img width="894" height="560" alt="image" src="https://github.com/user-attachments/assets/e1a6f88c-c31b-4445-9cf3-0a8dfb6bc255" />
 
-  
+## Why  
+Arlecchino and Furina are pretty and deserve to light up 👑👑        
+
 ## 3d Model 
 Box
 
@@ -44,7 +46,7 @@ Since every component is going to be lightweight and static I'm planning on usin
 Imported [WH148 potentiometer](https://grabcad.com/library/wh148-potentiometer-1k-1) for the assembly 
 
 
-# PCB 
+## PCB 
 A simple PCB that just connects the LED strips, slide switch, and potentiometer. Everything is connected via headers since all the parts will be in different locations in the box. 
 
 Schematic
@@ -55,9 +57,9 @@ PCB
 
 <img width="500" height="430" alt="image" src="https://github.com/user-attachments/assets/e48dbbbe-0e38-4f1c-a646-a2e188ca18bb" />
 
-# Library
+## Library
 [FastLED](https://github.com/FastLED/FastLED) 
 
-# Zine 
+## Zine 
 <img width="432" height="667" alt="image" src="https://github.com/user-attachments/assets/c27bddd0-50ae-4d60-a8ce-18786ffe07a3" />
 
